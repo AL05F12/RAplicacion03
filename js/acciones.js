@@ -14,4 +14,8 @@
 	$('#B_Rex').tap(function (e) {
  	 $.mobile.navigate( "#Rex" );
 	});
+	
+	$('#B_Pag').tap(function (e) {
+ 	 $.mobile.navigate( "#Pag" );
+	});
 });//ready
