@@ -18,4 +18,8 @@
 	$('#B_Pag').tap(function (e) {
  	 $.mobile.navigate( "#Pag" );
 	});
+	
+	$('#B_Ace').tap(function (e) {
+ 	 $.mobile.navigate( "#Ace" );
+	});
 });//ready
